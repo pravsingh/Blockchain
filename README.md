@@ -15,7 +15,7 @@ TODO:
 
 ## Learn from test cases
 
-BlockchainApplicationTests class has tests cases which will execute the flow and validate the results.
+[BlockchainApplicationTests](https://github.com/pravsingh/Blockchain/blob/master/src/test/java/com/hashfold/blockchain/app/BlockchainApplicationTests.java) class has tests cases which will execute the flow and validate the results.
 
 ## Start Server and interact with Swagger
 
