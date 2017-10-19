@@ -4,7 +4,7 @@ Learn Blockchain by building one using Java & SpringBoot.
 
 Inspired from [this](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) blog.
 
-This repository is the implementation of the simple Blockchain.
+This repository is the implementation of a simple Blockchain.
 
 TODO: 
 1. add Consensus
